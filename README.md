@@ -26,3 +26,24 @@ Copy dòng lệnh trên và chạy ở tab Console
 - Bước 2 : TẠO BOT
 
 Truy cập vào [Discord Dev Potral](https://discord.com/developers/applications) -> Chọn `New Application` -> Đặt tên cho ứng dụng của bạn rồi nhấn `enter` -> Nhấn vào dấu ba gạch ngang -> Chọn `Bot` rồi chọn `Add Bot` -> Nhấn `Copy` Token
+
+- Bước 3 : KHỞI ĐỘNG BOT
+
+Tìm `Sytem Secerts` (hình `🔒`) rồi làm như sau
+
+
+```
+Key : Token và Value : mabanvuasaochep
+```
+
+Sau đó trở lại tab Console,nhập như sau:
+
+```
+npm start
+```
+
+Nếu gặp một số vấn đề,hãy thử:
+```
+node server.js
+```
+
