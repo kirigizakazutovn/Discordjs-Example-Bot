@@ -1,6 +1,6 @@
 module.exports = {
-	name: 'cmds',
-	description: 'shows all commands',
+	name: 'help',
+	description: 'Hiển thị toàn bộ lệnh của bot',
 	execute(message, args, Discord, client){
 		require('dotenv').config();
 
