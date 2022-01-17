@@ -21,3 +21,8 @@ Mẫu về bot Discord.js
 ```
 npm i
 ```
+Copy dòng lệnh trên và chạy ở tab Console
+
+- Bước 2 : TẠO BOT
+
+Truy cập vào [Discord Dev Potral](https://discord.com/developers/applications) -> Chọn `New Application` -> Đặt tên cho ứng dụng của bạn rồi nhấn `enter` -> Nhấn vào dấu ba gạch ngang -> Chọn `Bot` rồi chọn `Add Bot` 
