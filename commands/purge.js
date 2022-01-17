@@ -11,7 +11,7 @@ module.exports = {
         
         if(args[0] < 1) return message.reply("You have to delete at least one message!");
 
-		if(!message.guild.me.permissions.has("MANAGE_MESSAGES")) return message.reply("I (The bot) need Manage Messages Permissions for this!") // optional
+		if(!message.guild.me.permissions.has("MANAGE_MESSAGES")) return message.reply("Hãy cấp đủ quyền giúp tôi hoạt động tốt!") // optional
  
         await message.channel.messages.fetch({ limit: args[0]}).then(messages =>{
             message.channel.bulkDelete(messages, true)
