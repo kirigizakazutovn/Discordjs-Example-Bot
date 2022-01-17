@@ -33,7 +33,8 @@ Tìm `Sytem Secerts` (hình `🔒`) rồi làm như sau
 
 
 ```
-Key : Token và Value : mabanvuasaochep
+Key : Token 
+Value : mabanvuasaochep
 ```
 
 Sau đó trở lại tab Console,nhập như sau:
