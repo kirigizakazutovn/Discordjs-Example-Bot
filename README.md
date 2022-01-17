@@ -48,3 +48,26 @@ Nếu gặp một số vấn đề,hãy thử:
 node server.js
 ```
 
+#2.1 - Hướng dẫn đóng góp
+Hãy `fork repo`này về tài khoản của bạn,sau khi chỉnh sửa hãy quay lại `repo` này và tạo một `Pull Request`
+
+- `Mod sẽ xem sét có nên chỉnh sửa hay không`
+
+# 2.2 - Xử lý lỗi của package.json và package-lock.json
+Hãy xóa 2 file `package.json` và `package.json`,sau đó dùng 
+
+```
+npm init -y
+```
+
+Sau đó dùng lệnh sau để cài đặt lại các gói bổ trợ
+
+```
+npm i
+```
+
+
+
+
+
+
